@@ -4,6 +4,9 @@ This repository contains a **Parameterized N-bit ALU (Arithmetic Logic Unit)** d
 ## What is an ALU?
 An **ALU (Arithmetic Logic Unit)** is a digital circuit that performs arithmetic and logical operations. It is a fundamental building block of a CPU (Central Processing Unit), enabling the execution of operations such as addition, subtraction, logical operations, and bitwise manipulation.
 
+![Screenshot 2024-10-11 213341](https://github.com/user-attachments/assets/30d47762-6de2-4a1c-9ccc-bf12971cd9c0)
+
+
 ## Key Features of N-bit ALU
 This ALU design is highly customizable, with support for various arithmetic, logical, and shift operations. The bit-width (N-bit) is parameterized, making it versatile for different system requirements.
 
