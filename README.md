@@ -80,6 +80,12 @@ This ALU design is highly customizable, with support for various arithmetic, log
 - **Design Language**: Verilog
 - **Operations**: Addition, Subtraction, AND, OR, XOR, Left Shift, Right Shift, Rotate, etc.
 
+## Outputs
+
+![Screenshot 2024-10-11 105742](https://github.com/user-attachments/assets/3143dbd5-fff0-44b4-b9ca-62a04f33e816)
+
+![Screenshot 2024-10-11 105843](https://github.com/user-attachments/assets/95cf6ebf-7b30-48e2-81bd-b1ae8cf20d68)
+
 ## Future Enhancements:
 - **Floating-Point Arithmetic**: Adding floating-point support for handling non-integer calculations.
 - **Pipelining**: Implementing pipelining to enhance performance by allowing overlapping execution of multiple operations.
